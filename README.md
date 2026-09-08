@@ -18,21 +18,26 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+  <a href="https://livewire.laravel.com"><img src="https://img.shields.io/badge/Livewire-FB50A3?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" /></a>
+  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind v4" /></a>
+  <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" /></a>
+  <img src="https://img.shields.io/badge/IoT-5C2D91?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiLz48cGF0aCBkPSJNMTIgMThhNiA2IDAgMSAxIDAtMTIgNiA2IDAgMCAxIDAgMTJtMC0yYTQgNCAwIDEgMCAwLTggNCA0IDAgMCAwIDAgOCIvPjwvc3ZnPg==&logoColor=white" alt="IoT" />
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+</p>
 
-<a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,js,cs,docker,postgres,redis,linux,git&perline=10" alt="Laravel, Vue, Tailwind, JavaScript, C#, Docker, Postgres, Redis, Linux, Git" /></a>
-
-<br/>
-
-![Livewire](https://img.shields.io/badge/Livewire-4E1676?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind v4](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-5C2D91?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiLz48cGF0aCBkPSJNMTIgMThhNiA2IDAgMSAxIDAtMTIgNiA2IDAgMCAxIDAgMTJtMC0yYTQgNCAwIDEgMCAwLTggNCA0IDAgMCAwIDAgOCIvPjwvc3ZnPg==&logoColor=white)
-![zAI](https://img.shields.io/badge/zAI-3859FF?style=for-the-badge&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /></a>
+  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://z.ai"><img src="https://img.shields.io/badge/zAI-3859FF?style=for-the-badge" alt="zAI" /></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" /></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+</p>
 
 ## 📊 GitHub Stats
 
