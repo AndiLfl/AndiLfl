@@ -36,31 +36,14 @@
 
 ## 📊 GitHub Stats
 
-> [!NOTE]
-> Cards reflect **public** GitHub activity. Most of my work lands in private repositories, so the totals here are lower than my full contribution graph.
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndiLfl&theme=github_dark" height="180" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndiLfl&theme=github_dark" height="180" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndiLfl&theme=github_dark" height="180" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndiLfl&theme=github_dark" height="180" alt="Most committed languages" />
+  <img src="https://raw.githubusercontent.com/AndiLfl/AndiLfl/output/metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 ## 🔥 Commit History
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndiLfl&hide_border=true&background=0D1117&stroke=7C3AED33&ring=FF2D20&fire=FF8C42&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF2D20&sideLabels=8B949E&dates=8B949E&v=20260909" height="165" alt="Commit streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF2D20/AndiLfl?v=20260909" width="100%" alt="Commit calendar" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndiLfl&theme=github_dark" width="100%" alt="Productive time" />
+  <img src="https://raw.githubusercontent.com/AndiLfl/AndiLfl/output/isocalendar.svg" width="100%" alt="Isometric commit calendar" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
